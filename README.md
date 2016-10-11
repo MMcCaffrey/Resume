@@ -1,7 +1,7 @@
 # MICHAEL K. McCAFFREY, MSF, CFA, CAIA
 2709 Bolton, Austin, TX 78748  mkm1836@gmail.com  (512) 917-0425
 
-EDUCATION & CERTIFICATIONS
+### EDUCATION & CERTIFICATIONS
 •	Master of Science in Finance. The George Washington University, May 2000.
 •	Bachelor of Science in Economics. Texas Christian University, December 1996. 
 o	TCU Dean’s Scholarship, US Department of Education Byrd Honors Scholarship, D.R.T. Scholarship.
@@ -9,13 +9,13 @@ o	TCU Dean’s Scholarship, US Department of Education Byrd Honors Scholarship, 
 •	Chartered Alternative Investment Analyst (CAIA) charterholder, Nov 2007.
 •	Registered Investment Advisor Representative (NASD/FINRA Series 65), June 2001 – Feb 2008.
 
-TECHNICAL SKILLS
+### TECHNICAL SKILLS
 SQL, Python, MS Excel (w/ macros & VBA), MS Access, MS Word, MS PowerPoint, MS Outlook, Bloomberg, Morningstar Direct.
 
-PUBLICATIONS
+### PUBLICATIONS
 •	“An Introduction to Swaps,” Investopedia.com, April 2007. 
 
-EXPERIENCE
+### EXPERIENCE
 Dimensional Fund Advisors (Austin, TX) April 2007 – February 2016.
 Associate, Investment Analytics & Data, Research Department
 •	Support the data needs of the Communications department.
