@@ -2,22 +2,18 @@
 2709 Bolton, Austin, TX 78748  mkm1836@gmail.com  (512) 917-0425
 
 ### EDUCATION & CERTIFICATIONS
-•	Master of Science in Finance. The George Washington University, May 2000.
-
-•	Bachelor of Science in Economics. Texas Christian University, December 1996. 
-o	TCU Dean’s Scholarship, US Department of Education Byrd Honors Scholarship, D.R.T. Scholarship.
-
-•	Chartered Financial Analyst (CFA) charterholder, May 2003.
-
-•	Chartered Alternative Investment Analyst (CAIA) charterholder, Nov 2007.
-
-•	Registered Investment Advisor Representative (NASD/FINRA Series 65), June 2001 – Feb 2008.
+* Master of Science in Finance. The George Washington University, May 2000.  
+* Bachelor of Science in Economics. Texas Christian University, December 1996.  
+	* TCU Dean’s Scholarship, US Department of Education Byrd Honors Scholarship, D.R.T. Scholarship.  
+* Chartered Financial Analyst (CFA) charterholder, May 2003.  
+* Chartered Alternative Investment Analyst (CAIA) charterholder, Nov 2007.
+* Registered Investment Advisor Representative (NASD/FINRA Series 65), June 2001 – Feb 2008.
 
 ### TECHNICAL SKILLS
 SQL, Python, Excel (w/ macros & VBA), Access, Word, PowerPoint, Outlook, Bloomberg, Morningstar Direct.
 
 ### PUBLICATIONS
-•	“An Introduction to Swaps,” Investopedia.com, April 2007. 
+* [“An Introduction to Swaps,”](http://www.investopedia.com/articles/optioninvestor/07/swaps.asp) Investopedia.com, April 2007. 
 
 ### EXPERIENCE
 #### Dimensional Fund Advisors (Austin, TX) April 2007 – February 2016.
