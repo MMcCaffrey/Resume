@@ -22,8 +22,8 @@ SQL, Python, Excel (w/ macros & VBA), Access, Word, PowerPoint, Outlook, Bloombe
 
 ###EXPERIENCE
 ####Dimensional Fund Advisors (Austin, TX) April 2007 – February 2016.
-**Associate, Investment Analytics & Data, Research Department (Jan 2012 - Feb 2016).**
-**Performance Analyst, Communications Department (April 2007 - Dec 2011).**
+**Associate, Investment Analytics & Data, Research Department (Jan 2012 - Feb 2016).**  
+**Performance Analyst, Communications Department (April 2007 - Dec 2011).**  
 * Support the data needs of the Marketing & Communications, Institutional Services, and Financial Advisor Services.
 * Provide data for updates (monthly, quarterly, or annually, depending on the document) of all Communications department publications presented to investors in the US, Canada, UK, Europe, and Australia, including the Matrix Book, unbranded PowerPoint slides, performance pages, AUM reporting, and website charts & graphs.
 * Provide ad hoc performance and other data to Editorial, Design, Website, and Presentation groups.
