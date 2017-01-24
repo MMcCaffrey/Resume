@@ -1,7 +1,7 @@
 #MICHAEL K. McCAFFREY, MSF, CFA, CAIA
-2709 Bolton, Austin, TX 78748  mkm1836@gmail.com  (512) 917-0425  
-Github: https://github.com/MMcCaffrey  
-LinkedIn: https://www.linkedin.com/in/mkmccaffrey  
+##2709 Bolton, Austin, TX 78748  mkm1836@gmail.com  (512) 917-0425  
+* Github: https://github.com/MMcCaffrey  
+* LinkedIn: https://www.linkedin.com/in/mkmccaffrey  
 
 ###EDUCATION & CERTIFICATIONS
 * Galvanize Data Science Immersive, expected graduation in March 2017.
