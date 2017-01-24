@@ -21,7 +21,7 @@ SQL, Python, Excel (w/ macros & VBA), Access, Word, PowerPoint, Outlook, Bloombe
 ###EXPERIENCE
 ####Dimensional Fund Advisors (Austin, TX) April 2007 – February 2016.
 #####Associate, Investment Analytics & Data, Research Department (Jan 2012 - Feb 2016).
-Performance Analyst, Communications Department (April 2007 - Dec 2011).
+#####Performance Analyst, Communications Department (April 2007 - Dec 2011).
 * Support the data needs of the Marketing & Communications, Institutional Services, and Financial Advisor Services.
 * Provide data for updates (monthly, quarterly, or annually, depending on the document) of all Communications department publications presented to investors in the US, Canada, UK, Europe, and Australia, including the Matrix Book, unbranded PowerPoint slides, performance pages, AUM reporting, and website charts & graphs.
 * Provide ad hoc performance and other data to Editorial, Design, Website, and Presentation groups.
@@ -52,16 +52,16 @@ Senior Investment Analyst
 * Answered ad hoc research requests and questions from financial planners and clients.
 * Subject matter expert for quantitative issues.
 
-#### AFSCME International (Washington, DC) January 2000 - August 2000.
+####AFSCME International (Washington, DC) January 2000 - August 2000.
 Budget Analyst (Contract Assignment):  Performed annual budget analysis. Part of team responsible for annual Hudson Rebate calculation.
 
-#### United Planning Organization (Washington, DC) September 1999 - December 1999.
+####United Planning Organization (Washington, DC) September 1999 - December 1999.
 Excel Specialist, Controller’s Office (Contract Assignment): Assisted in changeover to new accounting and payroll systems. Extensive use of Excel for charts and forms. Trained personnel on Excel.
 
-#### Fish & Richardson, P.C. (Houston, TX) July 1997 - March 1998  
+####Fish & Richardson, P.C. (Houston, TX) July 1997 - March 1998  
 Litigation Paralegal:  Drafted affidavits, correspondence, deposition notices, and court filings; organized and maintained litigation files; prepared filings and exhibits to Federal Courts; performed on-line research.
 	
-#### TCU Daily Skiff Newspaper (Fort Worth, TX)  
+####TCU Daily Skiff Newspaper (Fort Worth, TX)  
 * Copy Editor (September 1994 - May 1996)  
 * Opinion Columnist (January 1994 - May 1996)  
 
