@@ -21,16 +21,16 @@ SQL, Python, Excel (w/ macros & VBA), Access, Word, PowerPoint, Outlook, Bloombe
 ### EXPERIENCE
 #### Dimensional Fund Advisors (Austin, TX) April 2007 – February 2016.
 Associate, Investment Analytics & Data, Research Department
-•	Support the data needs of the Communications department.
-o	Provide data for updates (monthly, quarterly, or annually, depending on the document) of all Communications department publications presented to investors in the US, Canada, UK, Europe, and Australia, including the Matrix Book, unbranded PowerPoint slides, performance pages, AUM reporting, and website charts & graphs.
-o	Provide ad hoc performance and other data to Editorial, Design, Website, and Presentation groups.
-•	Co-manage data vendor relations, including Morningstar, Lipper, and Bloomberg.
-o	Ensure accuracy of DFA fund data in Morningstar and Bloomberg.
-o	New fund surveys, monthly performance and fixed income surveys.
-•	Data support for Financial Advisor & Institutional Services departments
-o	Annual update of Allocation Evaluator tools (US Domestic Equity, US International Equity, US Fixed Income, and UK Global Equity).
-o	Answer ad hoc questions from sales teams, frequently regarding: accuracy or interpretation of Morningstar data, the underlying data of a presentation slide, or details of returns calculations.
-•	Provide Data to Accounting & Legal departments for US Annual Reports, US Prospectus updates, and Canadian Annual & Semi-Annual Reports
+* Support the data needs of the Marketing & Communications, Institutional Services, and Financial Advisor Services.
+* Provide data for updates (monthly, quarterly, or annually, depending on the document) of all Communications department publications presented to investors in the US, Canada, UK, Europe, and Australia, including the Matrix Book, unbranded PowerPoint slides, performance pages, AUM reporting, and website charts & graphs.
+* Provide ad hoc performance and other data to Editorial, Design, Website, and Presentation groups.
+* Co-manage data vendor relations, including Morningstar, Lipper, and Bloomberg.
+* Ensure accuracy of DFA fund data in Morningstar and Bloomberg.
+* New fund surveys, monthly performance and fixed income surveys.
+* Data support for Financial Advisor & Institutional Services departments
+* Annual update of Allocation Evaluator tools (US Domestic Equity, US International Equity, US Fixed Income, and UK Global Equity).
+* Answer ad hoc questions from sales teams, frequently regarding: accuracy or interpretation of Morningstar data, the underlying data of a presentation slide, or details of returns calculations.
+* Provide data to Accounting & Legal departments for US Annual Reports, US Prospectus updates, and Canadian Annual & Semi-Annual Reports
 
 #### McCaffrey Investment Consulting (Santa Barbara, CA) February 2006 - April 2007.
 * Portfolio analysis for high-net-worth investors.
@@ -38,18 +38,18 @@ o	Answer ad hoc questions from sales teams, frequently regarding: accuracy or in
 
 #### Mercer Advisors (Santa Barbara, CA) September 2000 - February 2006.
 Senior Investment Analyst
-•	Investment Committee member; second-in-charge of $2.9 billion investment program.
-•	Assets under management (AUM) increased from $1.5 billion to $2.9 billion.
-•	Flagship equity portfolio earned 8.9% annualized vs. -1.0% for the S&P 500 index (Oct 2000 - Dec 2005).
-•	Involved in design and implementation of investment philosophy & strategy, including capital market assumptions, asset allocation studies, tax-management, and rebalancing.
-•	Manager search, selection, and monitoring of mutual funds, separate account managers, and hedge funds. 
-•	Maintained returns data for all model portfolios.
-•	Responsible for proxy voting and other corporate governance issues.
-•	Developed and maintained investment presentations and research reports explaining investment strategy to clients and financial planners.
-•	Development of risk/return profiling tools for financial planners.
-•	Analysis of prospective high-net-worth client portfolios, including recommendations for improvements.
-•	Answered ad hoc research requests and questions from financial planners and clients.
-•	Subject matter expert for quantitative issues.
+* Investment Committee member; second-in-charge of $2.9 billion investment program.
+* Assets under management (AUM) increased from $1.5 billion to $2.9 billion.
+* Flagship equity portfolio earned 8.9% annualized vs. -1.0% for the S&P 500 index (Oct 2000 - Dec 2005).
+* Involved in design and implementation of investment philosophy & strategy, including capital market assumptions, asset allocation studies, tax-management, and rebalancing.
+* Manager search, selection, and monitoring of mutual funds, separate account managers, and hedge funds. 
+* Maintained returns data for all model portfolios.
+* Responsible for proxy voting and other corporate governance issues.
+* Developed and maintained investment presentations and research reports explaining investment strategy to clients and financial planners.
+* Development of risk/return profiling tools for financial planners.
+* Analysis of prospective high-net-worth client portfolios, including recommendations for improvements.
+* Answered ad hoc research requests and questions from financial planners and clients.
+* Subject matter expert for quantitative issues.
 
 #### AFSCME International (Washington, DC) January 2000 - August 2000.
 Budget Analyst (Contract Assignment):  Performed annual budget analysis. Part of team responsible for annual Hudson Rebate calculation.
