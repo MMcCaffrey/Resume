@@ -1,7 +1,10 @@
 # MICHAEL K. McCAFFREY, MSF, CFA, CAIA
-2709 Bolton, Austin, TX 78748  mkm1836@gmail.com  (512) 917-0425
+2709 Bolton, Austin, TX 78748  mkm1836@gmail.com  (512) 917-0425  
+Github: https://github.com/MMcCaffrey  
+LinkedIn: https://www.linkedin.com/in/mkmccaffrey  
 
 ### EDUCATION & CERTIFICATIONS
+* Galvanize Data Science Immersive, expected graduation in March 2017.
 * Master of Science in Finance. The George Washington University, May 2000.  
 * Bachelor of Science in Economics. Texas Christian University, December 1996.  
 	* TCU Dean’s Scholarship, US Department of Education Byrd Honors Scholarship, D.R.T. Scholarship.  
@@ -30,8 +33,8 @@ o	Answer ad hoc questions from sales teams, frequently regarding: accuracy or in
 •	Provide Data to Accounting & Legal departments for US Annual Reports, US Prospectus updates, and Canadian Annual & Semi-Annual Reports
 
 #### McCaffrey Investment Consulting (Santa Barbara, CA) February 2006 - April 2007.
-•	Portfolio analysis for high-net-worth investors.
-•	Asset allocation designs. Investment manager due diligence, search, and selection.
+* Portfolio analysis for high-net-worth investors.
+* Asset allocation designs. Investment manager due diligence, search, and selection.
 
 #### Mercer Advisors (Santa Barbara, CA) September 2000 - February 2006.
 Senior Investment Analyst
