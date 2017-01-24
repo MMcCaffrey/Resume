@@ -57,8 +57,8 @@ Excel Specialist, Controller’s Office (Contract Assignment): Assisted in chang
 #### Fish & Richardson, P.C. (Houston, TX) July 1997 - March 1998  
 Litigation Paralegal:  Drafted affidavits, correspondence, deposition notices, and court filings; organized and maintained litigation files; prepared filings and exhibits to Federal Courts; performed on-line research.
 	
-#### TCU Daily Skiff Newspaper (Fort Worth, TX)
-•	Copy Editor (September 1994 - May 1996)
-•	Opinion Columnist (January 1994 - May 1996)
+#### TCU Daily Skiff Newspaper (Fort Worth, TX)  
+* Copy Editor (September 1994 - May 1996)  
+* Opinion Columnist (January 1994 - May 1996)  
 
 
