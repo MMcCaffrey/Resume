@@ -1,9 +1,9 @@
-# MICHAEL K. McCAFFREY, MSF, CFA, CAIA
+#MICHAEL K. McCAFFREY, MSF, CFA, CAIA
 2709 Bolton, Austin, TX 78748  mkm1836@gmail.com  (512) 917-0425  
 Github: https://github.com/MMcCaffrey  
 LinkedIn: https://www.linkedin.com/in/mkmccaffrey  
 
-### EDUCATION & CERTIFICATIONS
+###EDUCATION & CERTIFICATIONS
 * Galvanize Data Science Immersive, expected graduation in March 2017.
 * Master of Science in Finance. The George Washington University, May 2000.  
 * Bachelor of Science in Economics. Texas Christian University, December 1996.  
@@ -12,15 +12,16 @@ LinkedIn: https://www.linkedin.com/in/mkmccaffrey
 * Chartered Alternative Investment Analyst (CAIA) charterholder, Nov 2007.
 * Registered Investment Advisor Representative (NASD/FINRA Series 65), June 2001 – Feb 2008.
 
-### TECHNICAL SKILLS
+###TECHNICAL SKILLS
 SQL, Python, Excel (w/ macros & VBA), Access, Word, PowerPoint, Outlook, Bloomberg, Morningstar Direct.
 
-### PUBLICATIONS
+###PUBLICATIONS
 * [“An Introduction to Swaps,”](http://www.investopedia.com/articles/optioninvestor/07/swaps.asp) Investopedia.com, April 2007. 
 
-### EXPERIENCE
-#### Dimensional Fund Advisors (Austin, TX) April 2007 – February 2016.
-Associate, Investment Analytics & Data, Research Department
+###EXPERIENCE
+####Dimensional Fund Advisors (Austin, TX) April 2007 – February 2016.
+#####Associate, Investment Analytics & Data, Research Department (Jan 2012 - Feb 2016).
+Performance Analyst, Communications Department (April 2007 - Dec 2011).
 * Support the data needs of the Marketing & Communications, Institutional Services, and Financial Advisor Services.
 * Provide data for updates (monthly, quarterly, or annually, depending on the document) of all Communications department publications presented to investors in the US, Canada, UK, Europe, and Australia, including the Matrix Book, unbranded PowerPoint slides, performance pages, AUM reporting, and website charts & graphs.
 * Provide ad hoc performance and other data to Editorial, Design, Website, and Presentation groups.
@@ -32,11 +33,11 @@ Associate, Investment Analytics & Data, Research Department
 * Answer ad hoc questions from sales teams, frequently regarding: accuracy or interpretation of Morningstar data, the underlying data of a presentation slide, or details of returns calculations.
 * Provide data to Accounting & Legal departments for US Annual Reports, US Prospectus updates, and Canadian Annual & Semi-Annual Reports
 
-#### McCaffrey Investment Consulting (Santa Barbara, CA) February 2006 - April 2007.
+####McCaffrey Investment Consulting (Santa Barbara, CA) February 2006 - April 2007.
 * Portfolio analysis for high-net-worth investors.
 * Asset allocation designs. Investment manager due diligence, search, and selection.
 
-#### Mercer Advisors (Santa Barbara, CA) September 2000 - February 2006.
+####Mercer Advisors (Santa Barbara, CA) September 2000 - February 2006.
 Senior Investment Analyst
 * Investment Committee member; second-in-charge of $2.9 billion investment program.
 * Assets under management (AUM) increased from $1.5 billion to $2.9 billion.
