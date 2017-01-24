@@ -22,8 +22,8 @@ SQL, Python, Excel (w/ macros & VBA), Access, Word, PowerPoint, Outlook, Bloombe
 
 ###EXPERIENCE
 ####Dimensional Fund Advisors (Austin, TX) April 2007 – February 2016.
-**Associate, Investment Analytics & Data, Research Department (Jan 2012 - Feb 2016).**  
-**Performance Analyst, Communications Department (April 2007 - Dec 2011).**  
+**Associate, Investment Analytics & Data, Research Department (January 2012 - February 2016).**  
+**Performance Analyst, Communications Department (April 2007 - December 2011).**  
 * Support the data needs of the Marketing & Communications, Institutional Services, and Financial Advisor Services.
 * Provide data for updates (monthly, quarterly, or annually, depending on the document) of all Communications department publications presented to investors in the US, Canada, UK, Europe, and Australia, including the Matrix Book, unbranded PowerPoint slides, performance pages, AUM reporting, and website charts & graphs.
 * Provide ad hoc performance and other data to Editorial, Design, Website, and Presentation groups.
@@ -40,7 +40,7 @@ SQL, Python, Excel (w/ macros & VBA), Access, Word, PowerPoint, Outlook, Bloombe
 * Asset allocation designs. Investment manager due diligence, search, and selection.
 
 ####Mercer Advisors (Santa Barbara, CA) September 2000 - February 2006.
-Senior Investment Analyst
+**Senior Investment Analyst**
 * Investment Committee member; second-in-charge of $2.9 billion investment program.
 * Assets under management (AUM) increased from $1.5 billion to $2.9 billion.
 * Flagship equity portfolio earned 8.9% annualized vs. -1.0% for the S&P 500 index (Oct 2000 - Dec 2005).
