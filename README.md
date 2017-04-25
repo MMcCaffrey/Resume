@@ -39,7 +39,7 @@ SQL, Python, Excel (w/ macros & VBA), Access, Word, PowerPoint, Outlook, Bloombe
 * Portfolio analysis for high-net-worth investors.
 * Asset allocation designs. Investment manager due diligence, search, and selection.
 
-####Mercer Advisors (Santa Barbara, CA) September 2000 - February 2006.
+#### Mercer Advisors (Santa Barbara, CA) September 2000 - February 2006.
 **Senior Investment Analyst**
 * Investment Committee member; second-in-charge of $2.9 billion investment program.
 * Assets under management (AUM) increased from $1.5 billion to $2.9 billion.
