@@ -18,9 +18,9 @@ Python (Pandas, Numpy, Sci-Kit Learn, MatPlotLib, et al), SQL, MongoDB, Big Data
 * Data Science Immersive. [Galvanize](https://new.galvanize.com/austin/data-science#curriculum), March 2017.  
 * Master of Science in Finance. [The George Washington University](http://business.gwu.edu/programs/specialized-masters/m-s-in-finance/), May 2000.  
 * Bachelor of Science in Economics. [Texas Christian University](http://www.econ.tcu.edu/), December 1996.   
-* Chartered Alternative Investment Analyst ([CAIA]((https://www.caia.org/)) charterholder, Nov 2007.  
+* Chartered Alternative Investment Analyst ([CAIA](https://www.caia.org/)) charterholder, Nov 2007.  
 * Chartered Financial Analyst ([CFA](https://www.cfainstitute.org/pages/index.aspx)) charterholder, May 2003.  
-* Registered Investment Advisor (RIA) Representative (NASD/FINRA Series 65), June 2001 – Feb 2008.  
+* Registered Investment Advisor (RIA) Representative (FINRA Series 65), June 2001 – Feb 2008.  
 
 
 ### EXPERIENCE
