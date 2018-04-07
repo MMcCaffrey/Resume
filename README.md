@@ -2,7 +2,7 @@
 * Austin, TX  
 * Email: mkm1836@gmail.com  
 * Phone: (512) 917-0425  
-* Github: https://github.com/MMcCaffrey  
+* GitHub: https://github.com/MMcCaffrey  
 * LinkedIn: https://www.linkedin.com/in/mkmccaffrey  
 
 
